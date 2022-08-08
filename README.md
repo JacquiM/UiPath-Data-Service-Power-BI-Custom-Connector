@@ -12,4 +12,4 @@ UiPath Data Service is a great way to store data being utilised by automations b
 To understand how this is put together, visit the following blog post:
 
 ## Acknowledgements
-A huge thanks to Ankit Saraf who did a lot of the heavy lifting to get this solution together. A guide to the solution was initially posted on the UiPath Forum, by Ankit: https://forum.uipath.com/t/access-to-data-service-with-power-bi/417689/19?u=jacqui_m.
+A huge thanks to Ankit Saraf who did a lot of the heavy lifting to get this solution together. A guide to the solution was initially posted on the <a href="https://forum.uipath.com/t/access-to-data-service-with-power-bi/417689/19?u=jacqui_m" target="_blank">UiPath Forum, by Ankit</a>.
