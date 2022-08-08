@@ -1,0 +1,2 @@
+# UiPath-Data-Service-Power-BI-Custom-Connector
+UiPath Data Service is a great way to store data being utilised by automations but can be tedious to currently visualise in the UiPath stack. For that reason, one of the best ways to visualise the data living in UiPath Data Service is through Power BI. Since there is an API available for interaction with UiPath Data Service, the API can be connected to Power BI directly or through a custom connector. The custom connector is a little more advanced but, in essence, should work if the steps in this repo are followed.
